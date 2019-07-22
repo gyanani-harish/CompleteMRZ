@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -I/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni -isystem /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o -c /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp",
+  "file": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp"
+}
+]

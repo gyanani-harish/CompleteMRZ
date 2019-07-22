@@ -1,0 +1,49 @@
+{
+  "stringTable": {
+    "0": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/.externalNativeBuild/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Ddetection_based_tracker_EXPORTS -I/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni -isystem /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -std=gnu++11"
+  },
+  "buildFiles": [
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/CMakeLists.txt",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../sdk/native/jni/abi-x86/OpenCVModules.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/../../../sdk/native/jni/abi-x86/OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/.externalNativeBuild/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-Debug-x86": {
+      "buildCommand": "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/.externalNativeBuild/cmake/debug/x86 --target detection_based_tracker",
+      "buildType": "debug",
+      "toolchain": "448281787",
+      "abi": "x86",
+      "artifactName": "detection_based_tracker",
+      "files": [
+        {
+          "src": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/face-detection/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so"
+    }
+  },
+  "toolchains": {
+    "448281787": {
+      "cppCompilerExecutable": "/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

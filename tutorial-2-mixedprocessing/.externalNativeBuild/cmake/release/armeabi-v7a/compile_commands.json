@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmixed_sample_EXPORTS -I/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni -isystem /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -std=gnu++11 -o CMakeFiles/mixed_sample.dir/jni_part.cpp.o -c /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp",
+  "file": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp"
+}
+]

@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+MERGED from [:opencv] /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/594757723f424756f4152e313d1b464b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/3bc764b9b9046e738df038015d94ac6f/AndroidManifest.xml:15:1-20:12
+MERGED from [com.rmtheis:tess-two:9.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/tess-two-9.0.0.aar/63dc5d2a75ea7c6e6297e919c6293c28/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:3:11-49
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:6:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:7:9-40
+activity#org.opencv.samples.tutorial2.HarishActivity
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:12:19-51
+	android:configChanges
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:13:19-69
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:11:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:16:27-74
+supports-screens
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:21:5-25:51
+	android:largeScreens
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:24:23-50
+	android:smallScreens
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:22:23-50
+	android:normalScreens
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:23:23-51
+	android:resizeable
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:21:23-48
+	android:anyDensity
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:25:23-48
+uses-permission#android.permission.CAMERA
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:27:5-64
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:27:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:29:5-84
+	android:required
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:29:58-82
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:29:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:30:5-94
+	android:required
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:30:68-92
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:30:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:31:5-90
+	android:required
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:31:64-88
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:31:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:32:5-100
+	android:required
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:32:74-98
+	android:name
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml:32:19-73
+uses-sdk
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+MERGED from [:opencv] /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/594757723f424756f4152e313d1b464b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/594757723f424756f4152e313d1b464b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:21:5-23:78
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/3bc764b9b9046e738df038015d94ac6f/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/3bc764b9b9046e738df038015d94ac6f/AndroidManifest.xml:18:5-43
+MERGED from [com.rmtheis:tess-two:9.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/tess-two-9.0.0.aar/63dc5d2a75ea7c6e6297e919c6293c28/AndroidManifest.xml:22:5-24:41
+MERGED from [com.rmtheis:tess-two:9.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/tess-two-9.0.0.aar/63dc5d2a75ea7c6e6297e919c6293c28/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		ADDED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+		INJECTED from /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f2a28d4db207bf3a4fee560826b50b80/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a42139d09a1d3597da7967d9f8df467/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b220eabcedda532a8b314a201327e449/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff9b819c53229b1051fe97285fd780d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ec99f8e576b450c67bc847849f2e9427/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a6f818d4bd9a92a999da6e627d9c15ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a1dba60975ba3e15ab825e4b0b0eeb65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3343252caa707fa301f924d299276a74/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dd333513825ae18f677cedb9064c63f/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/harishgyanani/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/af29e93f589d5c07c08fbcfcbe82b54a/AndroidManifest.xml:26:13-58

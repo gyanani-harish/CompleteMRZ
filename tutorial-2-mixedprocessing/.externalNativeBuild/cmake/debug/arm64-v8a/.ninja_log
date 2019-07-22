@@ -1,0 +1,9 @@
+# ninja log v5
+1	3697	1563440897	CMakeFiles/mixed_sample.dir/jni_part.cpp.o	fbe7cc11408fa6fb
+3698	3832	1563440898	/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so	e82abaf671dc650d
+1	3437	1563442609	CMakeFiles/mixed_sample.dir/jni_part.cpp.o	fbe7cc11408fa6fb
+3437	3570	1563442609	/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so	e82abaf671dc650d
+2	3422	1563444545	CMakeFiles/mixed_sample.dir/jni_part.cpp.o	fbe7cc11408fa6fb
+3422	3553	1563444545	/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so	e82abaf671dc650d
+3	3944	1563454174	CMakeFiles/mixed_sample.dir/jni_part.cpp.o	fbe7cc11408fa6fb
+3944	4084	1563454174	/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so	e82abaf671dc650d

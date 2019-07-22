@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/CMakeLists.txt",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Debug-arm64-v8a": {
+      "artifactName": "mixed_sample",
+      "buildCommand": "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/arm64-v8a --target mixed_sample",
+      "abi": "arm64-v8a",
+      "output": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so"
+    }
+  }
+}

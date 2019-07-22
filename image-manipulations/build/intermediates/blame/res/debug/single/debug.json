@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/image-manipulations/build/intermediates/res/merged/debug/layout_image_manipulations_surface_view.xml.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/image-manipulations/res/layout/image_manipulations_surface_view.xml"
+    },
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/image-manipulations/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/image-manipulations/res/drawable/icon.png"
+    }
+]

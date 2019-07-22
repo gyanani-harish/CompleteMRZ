@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/build/intermediates/res/merged/debug/layout_camera_calibration_surface_view.xml.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/res/layout/camera_calibration_surface_view.xml"
+    },
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/build/intermediates/res/merged/debug/menu_calibration.xml.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/camera-calibration/res/menu/calibration.xml"
+    }
+]

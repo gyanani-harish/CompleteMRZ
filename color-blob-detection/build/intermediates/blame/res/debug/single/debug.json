@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/color-blob-detection/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/color-blob-detection/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/color-blob-detection/build/intermediates/res/merged/debug/layout_color_blob_detection_surface_view.xml.flat",
+        "source": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/color-blob-detection/res/layout/color_blob_detection_surface_view.xml"
+    }
+]

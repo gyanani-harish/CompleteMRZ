@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmixed_sample_EXPORTS -I/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni -isystem /Users/harishgyanani/Downloads/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -std=gnu++11"
+  },
+  "buildFiles": [
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/CMakeLists.txt",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Debug-arm64-v8a": {
+      "buildCommand": "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/arm64-v8a --target mixed_sample",
+      "buildType": "debug",
+      "toolchain": "448281787",
+      "abi": "arm64-v8a",
+      "artifactName": "mixed_sample",
+      "files": [
+        {
+          "src": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/arm64-v8a/libmixed_sample.so"
+    }
+  },
+  "toolchains": {
+    "448281787": {
+      "cppCompilerExecutable": "/Users/harishgyanani/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/CMakeLists.txt",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-x86/OpenCVModules.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/../../../sdk/native/jni/abi-x86/OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Release-x86": {
+      "artifactName": "mixed_sample",
+      "buildCommand": "/Users/harishgyanani/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/x86 --target mixed_sample",
+      "abi": "x86",
+      "output": "/Users/harishgyanani/Downloads/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/release/obj/x86/libmixed_sample.so"
+    }
+  }
+}
